@@ -1,0 +1,405 @@
+C:\Users\USER\source\repos\Mid\Mid\bin\Mid.dll.config
+C:\Users\USER\source\repos\Mid\Mid\bin\Mid.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\Mid.pdb
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\csc.exe
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\csc.exe.config
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\csc.rsp
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\csi.exe
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\csi.exe.config
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\csi.rsp
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.AppContext.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Console.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\vbc.exe
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\vbc.exe.config
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\vbc.rsp
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\source\repos\Mid\Mid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\source\repos\Mid\Mid\bin\Antlr3.Runtime.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\EntityFramework.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Helpers.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Mvc.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Optimization.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Razor.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.WebPages.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\WebGrease.dll
+C:\Users\USER\source\repos\Mid\Mid\bin\EntityFramework.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Helpers.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Mvc.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Optimization.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.Razor.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.WebPages.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\Mid\Mid\bin\Antlr3.Runtime.pdb
+C:\Users\USER\source\repos\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\source\repos\Mid\Mid\obj\Debug\Mid.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Mid\Mid\obj\Debug\Mid.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Mid\Mid\obj\Debug\Mid.csproj.CopyComplete
+C:\Users\USER\source\repos\Mid\Mid\obj\Debug\Mid.dll
+C:\Users\USER\source\repos\Mid\Mid\obj\Debug\Mid.pdb
+D:\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.csprojAssemblyReference.cache
+D:\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.csproj.CoreCompileInputs.cache
+D:\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.dll
+D:\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.pdb
+D:\Fall 22-23\.Net\Mid\Mid\bin\Mid.dll.config
+D:\Fall 22-23\.Net\Mid\Mid\bin\Mid.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\Mid.pdb
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csc.exe
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csc.exe.config
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csc.rsp
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csi.exe
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csi.exe.config
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csi.rsp
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.AppContext.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Collections.Immutable.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Console.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Globalization.Calendars.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.Compression.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.FileSystem.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Net.Http.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Net.Sockets.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Reflection.Metadata.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.ValueTuple.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.XPath.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\vbc.exe
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\vbc.exe.config
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\vbc.rsp
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\VBCSCompiler.exe
+D:\Fall 22-23\.Net\Mid\Mid\bin\roslyn\VBCSCompiler.exe.config
+D:\Fall 22-23\.Net\Mid\Mid\bin\Antlr3.Runtime.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\EntityFramework.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\Microsoft.Web.Infrastructure.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\Newtonsoft.Json.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Helpers.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Mvc.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Optimization.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Razor.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Deployment.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Razor.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\WebGrease.dll
+D:\Fall 22-23\.Net\Mid\Mid\bin\EntityFramework.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Helpers.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Mvc.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Optimization.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Razor.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Deployment.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Razor.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\Newtonsoft.Json.xml
+D:\Fall 22-23\.Net\Mid\Mid\bin\Antlr3.Runtime.pdb
+D:\Fall 22-23\.Net\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.csproj.CopyComplete
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Mid.dll.config
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Mid.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Mid.pdb
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csc.exe
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csc.exe.config
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csc.rsp
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csi.exe
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csi.exe.config
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\csi.rsp
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.AppContext.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Collections.Immutable.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Console.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Globalization.Calendars.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.Compression.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.FileSystem.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Net.Http.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Net.Sockets.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.ValueTuple.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.XPath.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\vbc.exe
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\vbc.exe.config
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\vbc.rsp
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\VBCSCompiler.exe
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\roslyn\VBCSCompiler.exe.config
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Antlr3.Runtime.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\EntityFramework.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Microsoft.Web.Infrastructure.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Newtonsoft.Json.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Helpers.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Mvc.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Optimization.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Razor.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Deployment.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Razor.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\WebGrease.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\EntityFramework.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Helpers.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Mvc.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Optimization.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.Razor.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Deployment.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\System.Web.WebPages.Razor.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Newtonsoft.Json.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Antlr3.Runtime.pdb
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.csprojAssemblyReference.cache
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.csproj.CoreCompileInputs.cache
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.csproj.CopyComplete
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.dll
+D:\Uni_Study\Fall 22-23\.Net\Mid\Mid\obj\Debug\Mid.pdb
+C:\Users\Eva\Downloads\Mid\Mid\bin\Mid.dll.config
+C:\Users\Eva\Downloads\Mid\Mid\bin\Mid.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\Mid.pdb
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\csc.exe
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\csc.exe.config
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\csc.rsp
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\csi.exe
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\csi.exe.config
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\csi.rsp
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.AppContext.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Console.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Net.Http.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\vbc.exe
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\vbc.exe.config
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\vbc.rsp
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eva\Downloads\Mid\Mid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eva\Downloads\Mid\Mid\bin\Antlr3.Runtime.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\EntityFramework.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\Newtonsoft.Json.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Helpers.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Mvc.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Optimization.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Razor.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.WebPages.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\WebGrease.dll
+C:\Users\Eva\Downloads\Mid\Mid\bin\EntityFramework.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Helpers.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Mvc.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Optimization.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.Razor.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.WebPages.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\Newtonsoft.Json.xml
+C:\Users\Eva\Downloads\Mid\Mid\bin\Antlr3.Runtime.pdb
+C:\Users\Eva\Downloads\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eva\Downloads\Mid\Mid\obj\Debug\Mid.csproj.AssemblyReference.cache
+C:\Users\Eva\Downloads\Mid\Mid\obj\Debug\Mid.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Downloads\Mid\Mid\obj\Debug\Mid.csproj.CopyComplete
+C:\Users\Eva\Downloads\Mid\Mid\obj\Debug\Mid.dll
+C:\Users\Eva\Downloads\Mid\Mid\obj\Debug\Mid.pdb
+F:\Mid\Mid\bin\Mid.dll.config
+F:\Mid\Mid\bin\Mid.dll
+F:\Mid\Mid\bin\Mid.pdb
+F:\Mid\Mid\bin\roslyn\csc.exe
+F:\Mid\Mid\bin\roslyn\csc.exe.config
+F:\Mid\Mid\bin\roslyn\csc.rsp
+F:\Mid\Mid\bin\roslyn\csi.exe
+F:\Mid\Mid\bin\roslyn\csi.exe.config
+F:\Mid\Mid\bin\roslyn\csi.rsp
+F:\Mid\Mid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Mid\Mid\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Mid\Mid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Mid\Mid\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Mid\Mid\bin\roslyn\System.AppContext.dll
+F:\Mid\Mid\bin\roslyn\System.Collections.Immutable.dll
+F:\Mid\Mid\bin\roslyn\System.Console.dll
+F:\Mid\Mid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Mid\Mid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Mid\Mid\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Mid\Mid\bin\roslyn\System.Globalization.Calendars.dll
+F:\Mid\Mid\bin\roslyn\System.IO.Compression.dll
+F:\Mid\Mid\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Mid\Mid\bin\roslyn\System.IO.FileSystem.dll
+F:\Mid\Mid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Mid\Mid\bin\roslyn\System.Net.Http.dll
+F:\Mid\Mid\bin\roslyn\System.Net.Sockets.dll
+F:\Mid\Mid\bin\roslyn\System.Reflection.Metadata.dll
+F:\Mid\Mid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Mid\Mid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Mid\Mid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Mid\Mid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Mid\Mid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Mid\Mid\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Mid\Mid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Mid\Mid\bin\roslyn\System.ValueTuple.dll
+F:\Mid\Mid\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Mid\Mid\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Mid\Mid\bin\roslyn\System.Xml.XPath.dll
+F:\Mid\Mid\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Mid\Mid\bin\roslyn\vbc.exe
+F:\Mid\Mid\bin\roslyn\vbc.exe.config
+F:\Mid\Mid\bin\roslyn\vbc.rsp
+F:\Mid\Mid\bin\roslyn\VBCSCompiler.exe
+F:\Mid\Mid\bin\roslyn\VBCSCompiler.exe.config
+F:\Mid\Mid\bin\Antlr3.Runtime.dll
+F:\Mid\Mid\bin\EntityFramework.dll
+F:\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Mid\Mid\bin\Microsoft.Web.Infrastructure.dll
+F:\Mid\Mid\bin\Newtonsoft.Json.dll
+F:\Mid\Mid\bin\System.Web.Helpers.dll
+F:\Mid\Mid\bin\System.Web.Mvc.dll
+F:\Mid\Mid\bin\System.Web.Optimization.dll
+F:\Mid\Mid\bin\System.Web.Razor.dll
+F:\Mid\Mid\bin\System.Web.WebPages.Deployment.dll
+F:\Mid\Mid\bin\System.Web.WebPages.dll
+F:\Mid\Mid\bin\System.Web.WebPages.Razor.dll
+F:\Mid\Mid\bin\WebGrease.dll
+F:\Mid\Mid\bin\EntityFramework.xml
+F:\Mid\Mid\bin\System.Web.Helpers.xml
+F:\Mid\Mid\bin\System.Web.Mvc.xml
+F:\Mid\Mid\bin\System.Web.Optimization.xml
+F:\Mid\Mid\bin\System.Web.Razor.xml
+F:\Mid\Mid\bin\System.Web.WebPages.xml
+F:\Mid\Mid\bin\System.Web.WebPages.Deployment.xml
+F:\Mid\Mid\bin\System.Web.WebPages.Razor.xml
+F:\Mid\Mid\bin\Newtonsoft.Json.xml
+F:\Mid\Mid\bin\Antlr3.Runtime.pdb
+F:\Mid\Mid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Mid\Mid\obj\Debug\Mid.csproj.AssemblyReference.cache
+F:\Mid\Mid\obj\Debug\Mid.csproj.CoreCompileInputs.cache
+F:\Mid\Mid\obj\Debug\Mid.csproj.CopyComplete
+F:\Mid\Mid\obj\Debug\Mid.dll
+F:\Mid\Mid\obj\Debug\Mid.pdb

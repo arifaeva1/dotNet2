@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div>
+        <a class="btn btn-success" href="/Dashboard/Profile">Profile</a>
+        <a class="btn btn-warning" href="/Dashboard/Logout">Logout</a>
+    </div>
+    <div>
+        @RenderBody()
+     </div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+F:\semister\10th semister\advance .net\myhometask\ZeroHunter\ZeroHunter\obj\Debug\ZeroHunter.csproj.AssemblyReference.cache
+F:\semister\10th semister\advance .net\myhometask\ZeroHunter\ZeroHunter\obj\Debug\ZeroHunter.csproj.CoreCompileInputs.cache

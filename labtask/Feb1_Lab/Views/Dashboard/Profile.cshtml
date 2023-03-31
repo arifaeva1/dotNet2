@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_Logged.cshtml";
+}
+
+<h2>Profile</h2>
+
+@if (TempData["Msg"] != null)
+{
+    <span class="alert alert-success">@TempData["Msg"]</span>
+}
+
+<table class="table table-bordered">
+    <th> ID </th>
+    <th> Name </th>
+
+    @for (int i = 0; i < 10; i++)
+    {
+        <tr>
+            <td>@ViewBag.Product[i].Id</td>
+            <td>@ViewBag.Product[i].Name</td>
+        </tr>
+
+    }
+
+</table>
+
